@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Sep 25 17:01:29 BRT 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-01a0-da28-9a93-000006d88c78 
+on database directory C:\Users\11\OneDrive\Documentos\REPOSITORIOS\PROJETOS PESSOAIS\BACKEND\mvc_user_dao\db_usuarios with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@60e53b93 
+Loaded from file:/C:/Users/11/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Microsoft
+java.runtime.version=17.0.20.1+1-LTS
+user.dir=C:\Users\11\OneDrive\Documentos\REPOSITORIOS\PROJETOS PESSOAIS\BACKEND\mvc_user_dao
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
